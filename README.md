@@ -1,1 +1,1 @@
-# project-67
+# contributing-to-open-source-project-67
